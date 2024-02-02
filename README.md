@@ -1,4 +1,4 @@
-# Richard_Portfolio
+# Richards_Portfolio
 My data analysis portfolio
 Welcome to my Portfolio
 I am a data analyst from Zimbabwe. 
