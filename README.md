@@ -1,8 +1,8 @@
 # Richards_Portfolio
 
-#Data Analyst
+# Data Analyst
 
-#A bit about me
+# A bit about me
 
 Welcome to my Portfolio, 
 
