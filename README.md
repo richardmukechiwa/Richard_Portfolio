@@ -10,7 +10,7 @@ I am a data analyst from Zimbabwe, my passion for  data began  in the year 2022,
 
 Find out more about my projects on the link below ...
 
-## [Netflix market trends and impact](https://github.com/richardmukechiwa/Netflix-Analysis-Project-.git)
+## [Netflix market trends and impact](https://github.com/richardmukechiwa/Project-1-Excel-.git)
 
 - Extracted the CSV file from Kaggle.
 - Cleaned and transformed the dataset using Power Query.
