@@ -23,7 +23,12 @@ Find out more about my projects on the links below ...
 - Data analysis using simple and advanced methods
 - Obtained insights around the customer complaints and the organisation's responses and solution.
 
-##
+## Project 3  [HealtchCare Data Analysis with SQL server] https://github.com/richardmukechiwa/HealthCare-Dataset-Analysis-with-Microsoft-SQL-server.git
+- Database provided on Twitter (See comments on the project page)
+- Uploaded the database into the Microsoft SQL server
+- Performed data check
+- Analysed the four tables provided using simple to advanced SQL skills
+- Gained insights about the data.
   
 
 																			
