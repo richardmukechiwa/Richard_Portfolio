@@ -22,6 +22,8 @@ Find out more about my projects on the links below ...
 - Checked the table for data quality and performed data-cleaning steps
 - Data analysis using simple and advanced methods
 - Obtained insights around the customer complaints and the organisation's responses and solution.
+
+##
   
 
 																			
