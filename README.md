@@ -23,13 +23,18 @@ Find out more about my projects on the links below ...
 - Data analysis using simple and advanced methods
 - Obtained insights around the customer complaints and the organisation's responses and solution.
 
-## Project 3  [HealtchCare Data Analysis with SQL server] https://github.com/richardmukechiwa/HealthCare-Dataset-Analysis-with-Microsoft-SQL-server.git
+## Project 3  [HealtchCare Data Analysis with SQL server] https://github.com/richardmukechiwa/HealthCare-Analysis.git
 - Database provided on Twitter (See comments on the project page)
 - Uploaded the database into the Microsoft SQL server
 - Performed data check
 - Analysed the four tables provided using simple to advanced SQL skills
 - Gained insights about the data.
   
-
-																			
+## Project 4 [New Zealand Stolen Vehicles Analysis with Python]https://github.com/richardmukechiwa/New-Zealand-Stolen-Vehicles-Analysis-with-Python.git
+-  Extracted dataset from Maven Analytics Playground
+-  Uploaded the file on into Jupyter Notebook
+-  Imported libraries like pandas, numpy , matplotlib and seaborn
+-  Carried out  data cleaning, manipulation and exploratory data analysis
+-  Data analysis using codes and visualization
+-  gained insights from the data 																			
 
