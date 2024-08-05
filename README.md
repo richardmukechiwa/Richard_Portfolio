@@ -1,13 +1,23 @@
 # Richards_Portfolio
 
-## Data Analyst
+# Welcome to My Portfolio
 
-### A bit about me
+## About Me
 
-Welcome to my Portfolio, 
-I am a data analyst from Zimbabwe, my passion for  data began  in the year 2022, and since then I have continuously worked on  developing my knowledge and skills  in data analysis. My biggest achievement to date has been the projects that I have worked on including the ones in this portfolio.
+Hello! I’m Richard Mukechiwa, a dedicated data analyst from Zimbabwe. My journey into the world of data analytics began in 2022, and since then, I have been passionately honing my skills and expanding my knowledge in data analysis and data science.
 
-Find out more about my projects on the links below ...
+Throughout my career, I have undertaken numerous projects that reflect my commitment to transforming data into actionable insights. These projects are a testament to my analytical abilities and my drive to solve complex problems using data.
+
+### Projects Highlights
+- Analyzing the Market Trends and Impact of Netflix from 2008 - 2021 with Excel: A comprehensive analysis using Excel to understand Netflix's growth and market impact over the years.
+- Financial Organisation Data Analysis: Detailed analysis of financial data to uncover insights and trends.
+- HealthCare Database Analysis with Microsoft SQL Server: Utilizing SQL Server to analyze and manage healthcare data for improved decision-making.
+- New Zealand Stolen Vehicles Analysis with Python: Employing Python to analyze and visualize data on stolen vehicles in New Zealand.
+  
+Each project showcases a different aspect of my expertise and my ability to work with various tools and datasets.
+
+### Explore My Work
+I invite you to explore my projects in the repositories below. Each repository contains detailed documentation and insights into the methodologies and tools used.
 
 ## Project 1 [Netflix market trends and impact](https://github.com/richardmukechiwa/Project-1-Excel-.git)
 
