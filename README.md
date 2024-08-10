@@ -16,9 +16,10 @@ Throughout my career, I have undertaken numerous projects that reflect my commit
   
 Each project showcases a different aspect of my expertise and my ability to work with various tools and datasets.
 
-### Explore My Work
+## Explore My Work
 I invite you to explore my projects in the repositories below. Each repository contains detailed documentation and insights into the methodologies and tools used.
 
+## Microsoft Excel
 ## Project 1 [Netflix market trends and impact](https://github.com/richardmukechiwa/Project-1-Excel-.git)
 
 - Extracted the CSV file from Kaggle.
@@ -26,6 +27,7 @@ I invite you to explore my projects in the repositories below. Each repository c
 - Data analysis using time series methods and data visualization techniques.
 - Used the output to get insights, causes, and recommendations for Netflix's business growth.
 
+## SQL
 ## Project 2 [Financial Organisation Complaints Analysis](https://github.com/richardmukechiwa/SQL_Project.git)
 - Extracted the CSV file from the data. world platform.
 - Uploaded the flat file into the Microsoft SQL server.
@@ -33,15 +35,9 @@ I invite you to explore my projects in the repositories below. Each repository c
 - Data analysis using simple and advanced methods
 - Obtained insights around the customer complaints and the organisation's responses and solution.
 
-## Project 3 [HealtchCare Data Analysis with SQL server](https://github.com/richardmukechiwa/HealthCare-Dataset-Analysis-with-Microsoft-SQL-server.git)
-- Database provided on Twitter (See comments on the project page)
-- Uploaded the database into the Microsoft SQL server
-- Performed data check
-- Analysed the four tables provided using simple to advanced SQL skills
-- Gained insights about the data.
-  
-## Project 4 [New Zealand Stolen Vehicles Analysis with Python](https://github.com/richardmukechiwa/New-Zealand-Stolen-Vehicles-Analysis-with-Python.git)
--  Extracted dataset from Maven Analytics Playground
+## Python
+## Project 3 [British Airways Analysis](https://github.com/richardmukechiwa/British-Airways-Data-Analysis)
+-  Extracted dataset from Kaggle 
 -  Uploaded the file on into Jupyter Notebook
 -  Imported libraries like pandas, numpy , matplotlib and seaborn
 -  Carried out  data cleaning, manipulation and exploratory data analysis
